@@ -2,7 +2,7 @@
   "name": "react-gh-homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aureliusai.github.io",
+  "homepage": "https://aureliusai.github.io/react-gh-homepage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
