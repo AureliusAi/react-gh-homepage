@@ -6,14 +6,15 @@
 }
 
 .App-logo {
-  height: 5vmin;
-  padding-top: 10px;
+  width: 1.5em;
+  margin-right: 10px;
   pointer-events: none;
 }
 
 #slogan {
   font-size: 0.8em;
   color: #aaaaaa;
+  letter-spacing: 0.1em;
 }
 
 .App-header {
